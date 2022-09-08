@@ -1,0 +1,8 @@
+Algoritmo para jugar una partida de Smash Bros en el Switch
+1.- Prendes la televisión
+2.- Enciendes el  Switch
+3.- Agarras un control
+4.- Seleccionas "Smash Bros"
+5.- Eliges el escenario
+6.- Escoges tu personaje
+7.- Juegas la partida  
